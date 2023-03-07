@@ -187,6 +187,8 @@ body {
 	position: absolute;
 	left: -100px;
 	animation: leaf-one 1s;
+	animation-delay: 1s;
+
 
 }
 
@@ -195,6 +197,8 @@ body {
 	left: -100px;
 	transform: rotate(-30deg);
 	animation: leaf-two 1s;
+	animation-delay: 1s;
+
 
 
 }
@@ -203,6 +207,7 @@ body {
 	left: -60px;
 	transform: rotate(-90deg);
 	animation: leaf-three 1s;
+	animation-delay: 1s;
 
 }
 
